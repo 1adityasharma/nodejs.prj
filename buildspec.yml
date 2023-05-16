@@ -1,7 +1,7 @@
 version: 0.2
 env:
   variables:
-    S3_BUCKET: "webbucket360"
+    S3_BUCKET: "aditest1"
 phases:
   install:
     runtime-versions:
